@@ -14,6 +14,21 @@ class Kernel extends ConsoleKernel
      */
     protected $commands = [
         //
+	AchievementsCommand,
+	ColorsCommand,
+	EventsCommand,
+	ItemsCommand,
+	MaterialsCommand,
+	MinisCommand,
+	MountsCommand,
+	NoveltiesCommand,
+	ProfessionCommand,
+	RemovedItemsCommand,
+	SkillCommand,
+	SkinsCommand,
+	SpecializationsCommand,
+	TitlesCommand,
+	TraitsCommand
     ];
 
     /**
